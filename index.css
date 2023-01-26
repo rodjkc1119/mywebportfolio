@@ -1,0 +1,13 @@
+#float-left {
+	float: left;
+	background-color: peachpuff;
+	height: 150px;
+	width: 70px;
+
+
+
+#right-nav {
+	text-align: right;
+	padding-right: 3%;
+	position: sticky;
+	}
